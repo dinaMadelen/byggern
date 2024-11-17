@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "uart.h": "c",
+        "stdio.h": "c",
+        "sam.h": "c",
+        "sam3x8e.h": "c",
+        "can.h": "c",
+        "stdarg.h": "c",
+        "system_sam3x.h": "c",
+        "sam3xa.h": "c",
+        "time.h": "c",
+        "adc.h": "c",
+        "io.h": "c",
+        "pwm.h": "c",
+        "solenoid.h": "c",
+        "spi.h": "c"
+    }
+}
